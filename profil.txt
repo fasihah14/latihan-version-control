@@ -1,4 +1,5 @@
 nama:fasihah 
 kelas:2skpd
 program:pengurusan pangkalan data dan aplikasi web
-kemahiran: Asas git dan github
+kemahiran: Asas git dan GitHub
+Hobi:bermain permainan 
